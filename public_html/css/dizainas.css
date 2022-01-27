@@ -8,6 +8,6 @@ li.aukstis {
 .raudona {
     color: red;
 }
-.antras:nth-child(2) {
-    background: green;
+li:nth-child(2n) {
+    font-weight: bold;
 }
