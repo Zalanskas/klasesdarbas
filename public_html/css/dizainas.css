@@ -1,0 +1,13 @@
+li {
+    color: blue;
+}
+
+li.aukstis {
+    width: 100px; height: 100px;
+}
+.raudona {
+    color: red;
+}
+.antras:nth-child(2) {
+    background: green;
+}
